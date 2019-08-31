@@ -1,8 +1,6 @@
-<p align="center"><img src="https://github.com/thehackingsage/hacktonian/blob/master/logo.png?raw=true" /></p>
 
-<p align="center">***Pentesing Tools That All Hacker Needs.***</p>
 
-## HACKTRONIAN Menu :
+## AlexHAckPack Menu :
 
 - Information Gathering
 - Password Attacks
@@ -94,19 +92,18 @@
 
 This Tool Must Run As ROOT !!!
 
-```git clone https://github.com/thehackingsage/hacktronian.git```
+```git clone https://github.com/alex14324/alex.git```
 
-```cd hacktronian```
+```cd alex```
 
 ```chmod +x install.sh```
 
 ```./install.sh```
 
-That's it.. you can execute tool by typing **hacktronian**
+That's it.. you can execute tool by typing **alex**
 
 ## Installation in Android :
 
-Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```pkg install git```
 
@@ -116,21 +113,11 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```cd hacktronian```
 
-```chmod +x hacktronian.py```
+```chmod +x alex.py```
 
-```python2 hacktronian.py```
+```python2 alex.py```
 
-## Video Tutorial : 
 
-YouTube : https://www.youtube.com/watch?v=1LJlyQAQby4
-
-## License :
-
-[MIT Licence](https://github.com/thehackingsage/hacktronian/blob/master/LICENSE)
-
-That's It... If You Like This Repo. Please Share This With Your Friends..
-
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
 
 ***Thankyou.***
 ***Keep Visiting..***
