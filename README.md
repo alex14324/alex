@@ -109,9 +109,9 @@ That's it.. you can execute tool by typing **alex**
 
 ```pkg install python```
 
-```git clone https://github.com/thehackingsage/hacktronian.git```
+```git clone https://github.com/alex14324/alex.git```
 
-```cd hacktronian```
+```cd alex```
 
 ```chmod +x alex.py```
 
